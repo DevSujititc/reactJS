@@ -1,8 +1,5 @@
-# React + Vite
+# React + Vite Sample project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"I made a list of projects using ReactJS, ReactJS with Vite, and the Tailwind & Bootstrap frameworks. These projects might not be perfect because I was still learning ReactJS when I developed them."
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This message is about someone who has created a collection of projects using different technologies like ReactJS and frameworks like Tailwind & Bootstrap. They're mentioning that the projects might not be flawless because they were learning ReactJS while working on them.
